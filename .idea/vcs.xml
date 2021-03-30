@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Affirmations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidTrivia-Starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BusBookingUI-Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CalculateBMI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Clone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DessertClicker-Starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DiceRoller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FragmentDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Github purpose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Mobile-Assignment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SeatLayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TipTime" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TipTime2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TrackMySleepQuality-Starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TrackMySleepQualityCoroutines-Starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TrackMySleepQualityFinal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TrackMySleepQualityStates-Starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/affirmation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-basics-kotlin-unscramble-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-basics-kotlin-words-app-activities" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-basics-kotlin-words-app-starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-kotlin-fundamentals-starter-apps" vcs="Git" />
+  </component>
+</project>
